@@ -2181,7 +2181,7 @@ input, select, textarea {
 		white-space: nowrap;
 	}
 
-	@media(max-width: 768px) {
+	@media(max-width: 1000px) {
 		button.full-width {
 			width:100%;
 		}
