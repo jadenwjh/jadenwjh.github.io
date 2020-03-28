@@ -3629,7 +3629,7 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: white !important;
+				color: #18bfef !important;
 			}
 
 		#header strong, #header b {
@@ -3673,8 +3673,8 @@ input, select, textarea {
 		}
 
 			#header .logo:hover {
-				border-color: #18bfef !important;
-				color: #18bfef !important;
+				border-color: white !important;
+				color: white !important;
 			}
 
 		@media screen and (max-width: 980px) {
