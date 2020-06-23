@@ -75,6 +75,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+.modal-button {
+	text-align: true;
+}
+
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
@@ -96,7 +100,8 @@ input, select, textarea {
     position: relative;
     background-color: #fefefe;
     margin: auto;
-    padding: 0;
+	padding-left: 1rem;
+	padding-right: 1rem;
     border: 1px solid #888;
     width: 80%;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
@@ -2169,7 +2174,8 @@ input, select, textarea {
 		letter-spacing: 0.075em;
 		height: 3rem;
 		line-height: 3rem;
-		padding: 0 2rem;
+		padding-left: 1rem;
+		padding-right: 1rem;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
