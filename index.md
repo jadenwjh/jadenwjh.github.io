@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Momentum app for mobile devices, together with any related services operated by Jaden (collectively, the "Application"). Jaden is hereby referred to as the "Service Provider".
+This privacy policy applies to the Momentum app for mobile devices, together with any related services operated by Wong Jun Hong (collectively, the "Application"). Wong Jun Hong is hereby referred to as the "Service Provider".
 
 **Information Collection and Use**
 
